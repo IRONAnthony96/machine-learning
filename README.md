@@ -1,2 +1,2 @@
 # Papers
-Deep learning research papers
+Machine learning research papers
